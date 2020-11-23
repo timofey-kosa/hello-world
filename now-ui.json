@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "hello-world": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Hello World!",
+				"icon": "user-group-fill",
+				"description": "simple component like “Hello World!",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_myorg_helloworld"
+}
